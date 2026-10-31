@@ -80,12 +80,12 @@ Projects from [g2ntechsoft.web.app](https://g2ntechsoft.web.app/) — Angular UI
 
 ---
 
-### GitHub stats
+### GitHub
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GauravNikam0210&show_icons=true&theme=dark&hide_border=true&count_private=false&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravNikam0210&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
-</div>
+Activity and contribution graph live on the profile — no third-party stat cards (those often break in previews and on new graphs).
+
+- Profile: [github.com/GauravNikam0210](https://github.com/GauravNikam0210)
+- Languages in focus: TypeScript · Angular · HTML · CSS · JavaScript
 
 ---
 
